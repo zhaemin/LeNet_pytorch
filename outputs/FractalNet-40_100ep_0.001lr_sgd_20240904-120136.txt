@@ -1,0 +1,9 @@
+epoch[1] - training loss : 162.586
+epoch[2] - training loss : 147.793
+epoch[3] - training loss : 158.446
+epoch[4] - training loss : 147.646
+epoch[5] - training loss : 165.012
+epoch[6] - training loss : 148.346
+epoch[7] - training loss : 158.890
+epoch[8] - training loss : 152.614
+epoch[9] - training loss : 153.655

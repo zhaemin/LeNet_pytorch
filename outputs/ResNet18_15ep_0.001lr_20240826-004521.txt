@@ -1,0 +1,19 @@
+Training start : epochs - 15, batchsize - 128, dataset - cifar10, model - ResNet18, optimizer - SGD
+epoch[1] - valid acc: 28.067 % valid loss : 57.790, training loss : 7.603
+epoch[2] - valid acc: 36.333 % valid loss : 55.714, training loss : 6.835
+epoch[3] - valid acc: 42.000 % valid loss : 51.987, training loss : 6.511
+epoch[4] - valid acc: 44.300 % valid loss : 51.519, training loss : 6.282
+epoch[5] - valid acc: 43.600 % valid loss : 49.212, training loss : 6.096
+epoch[6] - valid acc: 40.700 % valid loss : 49.851, training loss : 5.925
+epoch[7] - valid acc: 48.533 % valid loss : 46.463, training loss : 5.791
+epoch[8] - valid acc: 44.767 % valid loss : 47.856, training loss : 5.689
+epoch[9] - valid acc: 43.167 % valid loss : 49.273, training loss : 5.576
+epoch[10] - valid acc: 37.800 % valid loss : 49.669, training loss : 5.464
+epoch[11] - valid acc: 48.067 % valid loss : 46.273, training loss : 5.386
+epoch[12] - valid acc: 42.633 % valid loss : 48.536, training loss : 5.329
+epoch[13] - valid acc: 52.667 % valid loss : 44.141, training loss : 5.241
+epoch[14] - valid acc: 45.800 % valid loss : 46.389, training loss : 5.185
+epoch[15] - valid acc: 40.967 % valid loss : 50.515, training loss : 5.104
+Finished Training
+Test start : batchsize - 128, dataset - cifar10, model - ResNet18
+accuracy: 66 %

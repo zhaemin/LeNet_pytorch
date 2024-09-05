@@ -1,0 +1,58 @@
+Training start : epochs - 200, batchsize - 128, dataset - cifar10, model - ResNet18
+Files already downloaded and verified
+Files already downloaded and verified
+epoch[1] - valid loss : 6.762
+epoch[2] - valid loss : 6.690
+epoch[3] - valid loss : 6.657
+epoch[4] - valid loss : 6.623
+epoch[5] - valid loss : 6.592
+epoch[6] - valid loss : 6.559
+epoch[7] - valid loss : 6.513
+epoch[8] - valid loss : 6.475
+epoch[9] - valid loss : 6.404
+epoch[10] - valid loss : 6.343
+epoch[11] - valid loss : 6.298
+epoch[12] - valid loss : 6.247
+epoch[13] - valid loss : 6.227
+epoch[14] - valid loss : 6.172
+epoch[15] - valid loss : 6.129
+epoch[16] - valid loss : 6.113
+epoch[17] - valid loss : 6.076
+epoch[18] - valid loss : 6.053
+epoch[19] - valid loss : 6.046
+epoch[20] - valid loss : 6.028
+epoch[21] - valid loss : 6.025
+epoch[22] - valid loss : 5.984
+epoch[23] - valid loss : 5.977
+epoch[24] - valid loss : 5.952
+epoch[25] - valid loss : 5.957
+epoch[26] - valid loss : 5.888
+epoch[27] - valid loss : 5.883
+epoch[28] - valid loss : 5.936
+epoch[29] - valid loss : 5.839
+epoch[30] - valid loss : 5.817
+epoch[31] - valid loss : 5.810
+epoch[32] - valid loss : 5.881
+epoch[33] - valid loss : 5.824
+epoch[34] - valid loss : 5.785
+epoch[35] - valid loss : 5.805
+epoch[36] - valid loss : 5.773
+epoch[37] - valid loss : 5.759
+epoch[38] - valid loss : 5.729
+epoch[39] - valid loss : 5.752
+epoch[40] - valid loss : 5.690
+epoch[41] - valid loss : 5.709
+epoch[42] - valid loss : 5.703
+epoch[43] - valid loss : 5.852
+epoch[44] - valid loss : 5.647
+epoch[45] - valid loss : 5.681
+epoch[46] - valid loss : 5.692
+epoch[47] - valid loss : 5.735
+epoch[48] - valid loss : 5.701
+epoch[49] - valid loss : 5.681
+early stopping at epoch-48
+Finished Training
+Test start : batchsize - 128, dataset - cifar10, model - ResNet18
+Files already downloaded and verified
+Files already downloaded and verified
+정확도: 57 %
